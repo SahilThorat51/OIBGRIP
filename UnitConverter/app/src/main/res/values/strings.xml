@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Mile</item>
+        <item>Inches</item>
+        <item>Foot</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Kilogram</item>
+        <item>US Ton</item>
+        <item>Gram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Milligram</item>
+    </string-array>
+
+</resources>
